@@ -1,1 +1,7 @@
 
+flask
+instagrapi==2.18.12
+moviepy==2.2.1
+pillow==12.3.0
+gdown==5.2.1
+google-genai==0.1.1
